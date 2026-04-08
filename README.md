@@ -11,8 +11,6 @@ Please model:
 
 Saw
 
-Independent axles
-
 Drivetrain gears
 
 Shells for:
@@ -29,7 +27,7 @@ I will model the:
 
 Roller chain gear
 
-Top shell
+Independent axles
 
 Third point of contact
 
