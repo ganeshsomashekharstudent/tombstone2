@@ -11,7 +11,7 @@ Please model:
 
 Saw
 
-Drivetrain gears
+Drivetrain gears - In Progress (Leo)
 
 Shells for:
 
@@ -27,7 +27,7 @@ I will model the:
 
 Roller chain gear
 
-Independent axles
+Independent axles - (if you haven't done this already, I've designed something I think will work (Leo))
 
 Third point of contact
 
